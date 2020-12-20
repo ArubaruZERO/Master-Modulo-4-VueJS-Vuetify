@@ -1,0 +1,1 @@
+export {default as LogoutButton} from "./LogoutComponent.vue"

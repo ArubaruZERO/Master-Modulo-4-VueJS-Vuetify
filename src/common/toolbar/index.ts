@@ -1,0 +1,1 @@
+export {default as ToolbarComponent} from "./Toolbar.vue"
